@@ -21,6 +21,7 @@ nav {
     justify-content: center;
     background-color: black;
     padding:10px;
+    cursor: pointer;
 }
 
 nav a {
@@ -167,6 +168,7 @@ main {
   .buy-now-btn:hover {
     background-color: rgba(222, 119, 34, 0.878);
   }
+  
   
   .product-reviews {
     margin-bottom: 20px;
